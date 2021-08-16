@@ -1,6 +1,7 @@
 # Tweet Sentiment Labeller
 
-Search for Tweets and download the data labeled with it's Polarity in CSV format
+Search for Tweets and download the data labeled with it's Polarity in CSV format.
+##### To know the current public sentiment about a person, product or any topic. Just type its name in the search box and click on search. 
 
 View Live at [https://twitter-sentiment-csv.herokuapp.com/](https://twitter-sentiment-csv.herokuapp.com/)
 
