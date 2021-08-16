@@ -15,11 +15,5 @@ View Live at [https://twitter-sentiment-csv.herokuapp.com/](https://twitter-sent
 4. Save the `ACCESS_TOKEN`, `ACCESS_TOKEN_SECRET`, `CONSUMER_KEY`, `CONSUMER_SECRET` as environment variables. You can follow [this](https://devcenter.heroku.com/articles/config-vars) guide for Heroku.
 5. Run the server. `python app.py`
 
-## Challenge
-This video was a submission for a challenge on a youtube video series by [llSourcell](https://github.com/llSourcell) [@Sirajology](https://twitter.com/sirajology):
-https://www.youtube.com/watch?v=o_OZdbCzHUA
-
-And was featured in the next video in the series:
-https://www.youtube.com/watch?v=9gBC9R-msAk
 
 ### [License MIT © Rohan Verma](https://rhnvrm.mit-license.org/)
